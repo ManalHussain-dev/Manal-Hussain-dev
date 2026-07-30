@@ -5,7 +5,7 @@ Software Engineering student at CUI Sahiwal, building full-stack projects while 
 - 🔭 Currently building **Deadline Desk** — a task manager for juggling coursework and internship deadlines (MERN stack)
 - 🌱 Learning: React, Node.js/Express, MongoDB
 - 💡 Interested in: web development, clean UI/UX, backend architecture
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manal-hussain) *(update this link to your actual profile URL)*
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/manal-hussain2006)
 
 ## Tech Stack
 
